@@ -2,7 +2,7 @@
 
 ### Hi, I'm Karthik 👾
 ## 👾 About Me
-🎓 Cybersecurity Student
+🎓 Cybersecurity Student <br>
 🔰 Beginner in Cybersecurity
 📚 Currently learning security fundamentals
 🐧 Exploring Linux, networking, and ethical hacking
