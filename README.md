@@ -1,21 +1,84 @@
-<h1 align="center">Hi 👋, My Name is Karthik</h1>
-<h3 align="center">Im an aspiring cybersecurity student</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pixelized&label=Profile%20views&color=0e75b6&style=flat" alt="pixelized" /> </p>
+```
+██╗  ██╗ █████╗ ██████╗ ████████╗██╗  ██╗██╗██╗  ██╗
+██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║██║ ██╔╝
+█████╔╝ ███████║██████╔╝   ██║   ███████║██║█████╔╝ 
+██╔═██╗ ██╔══██║██╔══██╗   ██║   ██╔══██║██║██╔═██╗ 
+██║  ██╗██║  ██║██║  ██║   ██║   ██║  ██║██║██║  ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pixelized" alt="pixelized" /></a> </p>
+# Hi, I'm Karthik 👾
 
-- 🌱 I’m currently learning **kali linux**
+### Aspiring Cybersecurity Student · Breaking things to understand them
 
-- 💬 Ask me about **cybersecurity**
+[![Profile Views](https://komarev.com/ghpvc/?username=pixelized&label=Profile+Views&color=00ff41&style=flat-square)](https://github.com/pixelized)
 
-- ⚡ Fun fact **Lazy**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🧩 Areas of Interest
+
+```
+[*] Penetration Testing & Ethical Hacking
+[*] OSINT (Open Source Intelligence)
+[*] Digital Forensics & Incident Response
+[*] Network Security & Traffic Analysis
+[*] CTF Challenges (Capture The Flag)
+[*] Malware Analysis & Reverse Engineering
+[*] Linux Systems & Security Hardening
+```
+
+---
+
+## 👾 About Me
+
+```bash
+$ whoami
+> karthik — cybersec student, linux nerd, eternal learner
+
+$ cat interests.txt
+> breaking stuff legally, reading CVEs at 2am, CTFs
+
+$ cat fun_fact.txt
+> professionally lazy, dangerously curious
+```
+
+---
+
+## 🛠️ Tools & Languages I'm Learning
+
+> *"Every expert was once a beginner"* — still on the journey 🚀
+
 <p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
->
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=pixelized&theme=matrix&no-frame=true&margin-w=10" alt="trophies"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pixelized&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="stats" />
+</p>
+
+---
+
+<div align="center">
+
+```
+[ SYSTEM ONLINE ] — Learning. Breaking. Improving. Repeat.
+```
+
+</div>
