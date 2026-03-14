@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./clock.svg" alt="pixel clock" width="100%"/>
+<img src="./clock.svg" alt="pixel " width="100%"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Pixelized-exe&label=Profile+Views&color=00ff41&style=flat-square)](https://github.com/Pixelized-exe)
 
