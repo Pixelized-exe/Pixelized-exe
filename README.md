@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
 
 ### Hi, I'm Karthik 👾
 #### Aspiring Cybersecurity Student ·
