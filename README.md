@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pixelized-exe&theme=matrix&no-frame=true&margin-w=10" alt="trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pixelized-exe&theme=dark&hide_border=true&stroke=00e5ff&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff"/>
 </p>
 
 <p align="left">
