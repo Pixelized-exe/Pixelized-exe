@@ -11,7 +11,7 @@
 
 # Hi, I'm Karthik 👾
 
-### Aspiring Cybersecurity Student · Breaking things to understand them
+### Aspiring Cybersecurity Student 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pixelized&label=Profile+Views&color=00ff41&style=flat-square)](https://github.com/pixelized)
 
@@ -34,23 +34,17 @@
 ---
 
 ## 👾 About Me
+🎓 Cybersecurity Student
+🔰 Beginner in Cybersecurity
+📚 Currently learning security fundamentals
+🐧 Exploring Linux, networking, and ethical hacking
 
-```bash
-$ whoami
-> karthik — cybersec student, linux nerd, eternal learner
 
-$ cat interests.txt
-> breaking stuff legally, reading CVEs at 2am, CTFs
 
-$ cat fun_fact.txt
-> professionally lazy, dangerously curious
-```
-
----
 
 ## 🛠️ Tools & Languages I'm Learning
 
-> *"Every expert was once a beginner"* — still on the journey 🚀
+> *"just a beginner"* — still on the journey 🚀
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -78,7 +72,7 @@ $ cat fun_fact.txt
 <div align="center">
 
 ```
-[ SYSTEM ONLINE ] — Learning. Breaking. Improving. Repeat.
+$ — Learning,failing, Improving. Repeat.
 ```
 
 </div>
