@@ -8,9 +8,7 @@ HALLLOOOOOOO!!!!
 
 ### Aspiring Cybersecurity Student 
 
-[[![Profile Views](https://komarev.com/ghpvc/?username=pixelized&label=Profile+Views&color=00ff41&style=flat-square)](https://github.com/pixelized)
-](https://komarev.com/ghpvc/?username=Pixelized-exe&label=Profile+Views&color=00ff41&style=flat-square)
-</div>
+
 
 ---
 
