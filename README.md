@@ -1,19 +1,15 @@
 <div align="center">
+<img src="./clock.svg" alt="pixel clock" width="100%"/>
 
-```
-HALLLOOOOOOO!!!!
-```
+[![Profile Views](https://komarev.com/ghpvc/?username=Pixelized-exe&label=Profile+Views&color=00ff41&style=flat-square)](https://github.com/Pixelized-exe)
 
-# Hi, I'm Karthik 👾
-
-### Aspiring Cybersecurity Student 
-
-
+### Hi, I'm Karthik 👾
+#### Aspiring Cybersecurity Student · Breaking things to understand them
+</div>
 
 ---
 
 ## 🧩 Areas of Interest
-
 ```
 [*] Penetration Testing & Ethical Hacking
 [*] OSINT (Open Source Intelligence)
@@ -27,17 +23,22 @@ HALLLOOOOOOO!!!!
 ---
 
 ## 👾 About Me
-🎓 Cybersecurity Student
-🔰 Beginner in Cybersecurity
-📚 Currently learning security fundamentals
-🐧 Exploring Linux, networking, and ethical hacking
+```bash
+$ whoami
+> karthik — cybersec student, linux nerd, eternal learner
 
+$ cat interests.txt
+> breaking stuff legally, reading CVEs at 2am, CTFs
 
+$ cat fun_fact.txt
+> professionally lazy, dangerously curious
+```
 
+---
 
 ## 🛠️ Tools & Languages I'm Learning
 
-> *"just a beginner"* — still on the journey 🚀
+> *"Every expert was once a beginner"* — still on the journey 🚀
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -53,19 +54,17 @@ HALLLOOOOOOO!!!!
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=pixelized&theme=matrix&no-frame=true&margin-w=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pixelized-exe&theme=matrix&no-frame=true&margin-w=10" alt="trophies"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelized&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pixelized-exe&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="stats" />
 </p>
 
 ---
 
 <div align="center">
 
-```
-$ — Learning,failing, Improving. Repeat.
-```
+`[ SYSTEM ONLINE ] — Learning. Breaking. Improving. Repeat.`
 
 </div>
