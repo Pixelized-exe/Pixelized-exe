@@ -1,10 +1,8 @@
-<div align="center">
-<img src="./clock.svg" alt="pixel " width="100%"/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Pixelized-exe&label=Profile+Views&color=00ff41&style=flat-square)](https://github.com/Pixelized-exe)
+<div align="right">
 
 ### Hi, I'm Karthik 👾
-#### Aspiring Cybersecurity Student · Breaking things to understand them
+#### Aspiring Cybersecurity Student ·
+
 </div>
 
 ---
@@ -23,16 +21,10 @@
 ---
 
 ## 👾 About Me
-```bash
-$ whoami
-> karthik — cybersec student, linux nerd, eternal learner
-
-$ cat interests.txt
-> breaking stuff legally, reading CVEs at 2am, CTFs
-
-$ cat fun_fact.txt
-> professionally lazy, dangerously curious
-```
+🎓 Cybersecurity Student
+🔰 Beginner in Cybersecurity
+📚 Currently learning security fundamentals
+🐧 Exploring Linux, networking, and ethical hacking
 
 ---
 
@@ -65,6 +57,6 @@ $ cat fun_fact.txt
 
 <div align="center">
 
-`[ SYSTEM ONLINE ] — Learning. Breaking. Improving. Repeat.`
+`$ — Learning. Failing. Improving. Repeat.`
 
 </div>
