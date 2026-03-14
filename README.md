@@ -49,7 +49,7 @@
 </p>
 
 <p align="left">
- <img src="https://github-profile-trophy.vercel.app/?username=pixelized-exe&theme=darkhub&no-frame=true&margin-w=10"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pixelized-exe&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="stats" />
 </p>
 
 ---
