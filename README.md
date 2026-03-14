@@ -1,6 +1,6 @@
 <div align="left">
 
-### Hi, I'm Karthik 👾
+# Hi, I'm Karthik 👾
 ## 👾 About Me
 🎓 Cybersecurity Student <br>
 🔰 Beginner in Cybersecurity <br>
