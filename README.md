@@ -1,7 +1,11 @@
 <div align="left">
 
 ### Hi, I'm Karthik 👾
-#### Aspiring Cybersecurity Student ·
+## 👾 About Me
+🎓 Cybersecurity Student
+🔰 Beginner in Cybersecurity
+📚 Currently learning security fundamentals
+🐧 Exploring Linux, networking, and ethical hacking
 
 </div>
 
@@ -18,13 +22,8 @@
 [*] Linux Systems & Security Hardening
 ```
 
----
 
-## 👾 About Me
-🎓 Cybersecurity Student
-🔰 Beginner in Cybersecurity
-📚 Currently learning security fundamentals
-🐧 Exploring Linux, networking, and ethical hacking
+
 
 ---
 
