@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm karthik</h1>
-<h3 align="center">A passionate aspiring cybersecurity</h3>
+<h1 align="center">Hi 👋, My Name is Karthik</h1>
+<h3 align="center">Im an aspiring cybersecurity student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pixelized&label=Profile%20views&color=0e75b6&style=flat" alt="pixelized" /> </p>
 
